@@ -2,9 +2,7 @@
 
 Privacy-focused cross-chain bridge between Zcash and Solana.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-MVP-yellow.svg)](https://github.com/yourusername/solz)
-[![Testnet](https://img.shields.io/badge/network-testnet-orange.svg)](https://faucet.testnet.z.cash/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE/) [![Status](https://img.shields.io/badge/status-MVP-yellow.svg)](https://github.com/yourusername/solz) [![Testnet](https://img.shields.io/badge/network-testnet-orange.svg)](https://faucet.testnet.z.cash/)
 
 ## Overview
 
@@ -23,7 +21,7 @@ SolZ Bridge enables seamless value transfer between Zcash's privacy-focused bloc
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/solz.git
+git clone https://github.com/solz-bridge/solz.git
 cd solz
 
 # Run setup scripts
@@ -48,7 +46,7 @@ For detailed setup instructions, see our [Installation Guide](https://your-gitbo
 
 ## Documentation
 
-Complete documentation is available on GitBook: **[SolZ Bridge Documentation](https://your-gitbook-url.com)**
+Complete documentation is available on GitBook: [**SolZ Bridge Documentation**](https://your-gitbook-url.com)
 
 ### Quick Links
 
@@ -214,33 +212,34 @@ Contributions welcome! Please read [Contributing Guide](https://your-gitbook-url
 
 ## Roadmap
 
-- [ ] Multi-signature authority
-- [ ] Decentralized oracle integration  
-- [ ] Web UI
-- [ ] Mainnet deployment
-- [ ] Additional token support
-- [ ] Enhanced privacy features
+* [ ] Multi-signature authority
+* [ ] Decentralized oracle integration
+* [ ] Web UI
+* [ ] Mainnet deployment
+* [ ] Additional token support
+* [ ] Enhanced privacy features
 
 ## Resources
 
 * [Documentation](https://your-gitbook-url.com)
-* [Discord Community](#)
+* [Discord Community](./)
 * [GitHub Issues](https://github.com/yourusername/solz/issues)
 * [Zcash Faucet](https://faucet.testnet.z.cash/)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file
+MIT License - see [LICENSE](LICENSE/) file
 
 ## Acknowledgments
 
 Built with:
+
 * [Zcash](https://z.cash) - Privacy layer
 * [Solana](https://solana.com) - Performance layer
 * [Anchor](https://www.anchor-lang.com/) - Smart contracts
 * [Node.js](https://nodejs.org/) - Bridge service
 
----
+***
 
 **⚠️ Disclaimer**: Experimental software for testnet use only. Use at your own risk.
 

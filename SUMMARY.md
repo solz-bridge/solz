@@ -1,0 +1,17 @@
+# Table of contents
+
+* [SolZ Bridge](README.md)
+* [SolZ Bridge Documentation](docs/README.md)
+  * [SolZ Bridge - Architecture Documentation](docs/_old_ARCHITECTURE.md)
+  * [SolZ Bridge - Complete Setup Guide](docs/_old_SETUP.md)
+  * [SolZ Bridge - Troubleshooting Guide](docs/_old_TROUBLESHOOTING.md)
+  * [SolZ Bridge - User Guide](docs/_old_USER_GUIDE.md)
+  * [getting-started](docs/getting-started/README.md)
+    * [Configuration](docs/getting-started/configuration.md)
+    * [Installation](docs/getting-started/installation.md)
+    * [Quick Start](docs/getting-started/quick-start.md)
+  * [resources](docs/resources/README.md)
+    * [External Links](docs/resources/external-links.md)
+    * [Glossary](docs/resources/glossary.md)
+  * [user-guide](docs/user-guide/README.md)
+    * [User Guide Overview](docs/user-guide/overview.md)
