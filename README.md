@@ -2,7 +2,7 @@
 
 Privacy-focused cross-chain bridge between Zcash and Solana.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE/) [![Status](https://img.shields.io/badge/status-MVP-yellow.svg)](https://github.com/yourusername/solz) [![Testnet](https://img.shields.io/badge/network-testnet-orange.svg)](https://faucet.testnet.z.cash/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE/) [![Status](https://img.shields.io/badge/status-MVP-yellow.svg)](https://github.com/solz-bridge/solz) [![Testnet](https://img.shields.io/badge/network-testnet-orange.svg)](https://faucet.testnet.z.cash/)
 
 ## Overview
 
@@ -42,19 +42,19 @@ npm run cli admin init
 npm start
 ```
 
-For detailed setup instructions, see our [Installation Guide](https://your-gitbook-url.com/getting-started/installation).
+For detailed setup instructions, see our [Installation Guide](https://solz.gitbook.io/solz/getting-started/installation).
 
 ## Documentation
 
-Complete documentation is available on GitBook: [**SolZ Bridge Documentation**](https://your-gitbook-url.com)
+Complete documentation is available on GitBook: [**SolZ Bridge Documentation**](https://solz.gitbook.io/solz/)
 
 ### Quick Links
 
-* [📖 Quick Start Guide](https://your-gitbook-url.com/getting-started/quick-start)
-* [⚙️ Installation](https://your-gitbook-url.com/getting-started/installation)
-* [👤 User Guide](https://your-gitbook-url.com/user-guide/overview)
-* [🏗️ Architecture](https://your-gitbook-url.com/architecture/system-overview)
-* [🔧 Troubleshooting](https://your-gitbook-url.com/operations/troubleshooting)
+* [📖 Quick Start Guide](https://solz.gitbook.io/solz/getting-started/quick-start)
+* [⚙️ Installation](https://solz.gitbook.io/solz/getting-started/installation)
+* [👤 User Guide](https://solz.gitbook.io/solz/user-guide/overview)
+* [🏗️ Architecture](https://solz.gitbook.io/solz/architecture/system-overview)
+* [🔧 Troubleshooting](https://solz.gitbook.io/solz/operations/troubleshooting)
 
 ## Architecture
 
@@ -168,7 +168,7 @@ anchor test
 * Bridge operates as custodian (centralized)
 * Monitor reserves regularly
 
-For security considerations, see [Security Documentation](https://your-gitbook-url.com/resources/security).
+For security considerations, see [Security Documentation](https://solz.gitbook.io/solz/resources/security).
 
 ## Configuration
 
@@ -208,7 +208,7 @@ npm run test:integration
 
 ## Contributing
 
-Contributions welcome! Please read [Contributing Guide](https://your-gitbook-url.com/development/contributing) first.
+Contributions welcome! Please read [Contributing Guide](https://solz.gitbook.io/solz/development/contributing) first.
 
 ## Roadmap
 
@@ -221,9 +221,9 @@ Contributions welcome! Please read [Contributing Guide](https://your-gitbook-url
 
 ## Resources
 
-* [Documentation](https://your-gitbook-url.com)
+* [Documentation](https://solz.gitbook.io/solz/)
 * [Discord Community](./)
-* [GitHub Issues](https://github.com/yourusername/solz/issues)
+* [GitHub Issues](https://github.com/solz-bridge/solz/issues)
 * [Zcash Faucet](https://faucet.testnet.z.cash/)
 
 ## License
