@@ -1,0 +1,32 @@
+{
+  "name": "solz-bridge",
+  "version": "1.0.0",
+  "description": "Privacy-focused cross-chain bridge between Zcash and Solana",
+  "main": "bridge-service/src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bridge-service/src/index.js",
+    "dev": "node --watch bridge-service/src/index.js",
+    "test": "node --test bridge-service/tests/**/*.test.js",
+    "cli": "node bridge-service/src/cli/index.js"
+  },
+  "keywords": ["zcash", "solana", "bridge", "privacy", "defi"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@solana/web3.js": "^1.87.6",
+    "@solana/spl-token": "^0.3.9",
+    "axios": "^1.6.2",
+    "better-sqlite3": "^9.2.2",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
+

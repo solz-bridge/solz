@@ -1,0 +1,32 @@
+{
+  "zcash": {
+    "network": "testnet",
+    "rpcUrl": "http://127.0.0.1:18232",
+    "rpcUser": "zcashrpc",
+    "rpcPassword": "changeme",
+    "confirmations": 6,
+    "depositAddress": "ztestsapling1..."
+  },
+  "solana": {
+    "network": "devnet",
+    "rpcUrl": "https://api.devnet.solana.com",
+    "programId": "",
+    "mintAddress": "",
+    "authorityKeypair": "./keypairs/bridge-authority.json"
+  },
+  "bridge": {
+    "feePercentage": 0.1,
+    "minDepositZEC": 0.001,
+    "maxDepositZEC": 100,
+    "pollIntervalMs": 30000,
+    "paused": false
+  },
+  "database": {
+    "path": "./data/bridge.db"
+  },
+  "logging": {
+    "level": "info",
+    "directory": "./logs"
+  }
+}
+
